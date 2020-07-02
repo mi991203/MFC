@@ -1,0 +1,81 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  stdafx.cpp
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  utilities.cpp
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(17,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(106,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(128,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(137,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(156,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(168,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(205,2): warning C4091: “typedef ”: 没有声明变量时忽略“datapkt”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(75,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(83,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(188,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(213,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(252,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(256,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\utilities.cpp(274,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+  mcf6Dlg.cpp
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(17,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(106,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(128,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(137,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(156,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(168,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(205,2): warning C4091: “typedef ”: 没有声明变量时忽略“datapkt”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(336,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(443,25): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(476,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 参见“localtime”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(478,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : 参见“strcpy”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(479,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(480,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(482,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : 参见“strcat”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(560,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 参见“localtime”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(607,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(629,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(827,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(832,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(1102,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : 参见“localtime”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(1148,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\mcf6Dlg.cpp(1170,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+  mcf6.cpp
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(17,2): warning C4091: “typedef ”: 没有声明变量时忽略“ethhdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“arphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(106,2): warning C4091: “typedef ”: 没有声明变量时忽略“tcphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(128,2): warning C4091: “typedef ”: 没有声明变量时忽略“udphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(137,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(156,2): warning C4091: “typedef ”: 没有声明变量时忽略“iphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(168,2): warning C4091: “typedef ”: 没有声明变量时忽略“icmphdr6”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(183,2): warning C4091: “typedef ”: 没有声明变量时忽略“pktcount”的左侧
+C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\mcf6\Protocol.h(205,2): warning C4091: “typedef ”: 没有声明变量时忽略“datapkt”的左侧
+  正在生成代码...
+mcf6.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  mcf6.vcxproj -> C:\Users\Administrator\Desktop\原创MFC WinpCap网络嗅探器（sniffer）\Debug\mcf6.exe
